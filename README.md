@@ -12,7 +12,7 @@
 
 Building next-generation **AI-powered security systems** focused on autonomous threat detection and incident response.
 
-- 🔭 Currently working on **[Sentinel](https://github.com/sentinel-moltbook/sentinel)** - AI Security & Threat Detection System
+- 🔭 Currently working on **[Sentinel](https://github.com/juddrosenblatt/sentinel)** - AI Security & Threat Detection System
 - 🌱 Exploring **Machine Learning for Cybersecurity**
 - 🎯 Focus: Event-driven architectures, anomaly detection, automated response systems
 - ⚡ Interested in: AI safety, security automation, distributed systems
@@ -21,7 +21,7 @@ Building next-generation **AI-powered security systems** focused on autonomous t
 
 ## 🚀 Featured Projects
 
-### [🛡️ Sentinel](https://github.com/sentinel-moltbook/sentinel)
+### [🛡️ Sentinel](https://github.com/juddrosenblatt/sentinel)
 AI-Powered Autonomous Security & Threat Detection System
 - Event-driven architecture for real-time threat monitoring
 - ML-based anomaly detection
@@ -54,11 +54,11 @@ AI-Powered Autonomous Security & Threat Detection System
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sentinel-moltbook&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juddrosenblatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sentinel-moltbook&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juddrosenblatt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sentinel-moltbook&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juddrosenblatt&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
@@ -75,7 +75,7 @@ AI-Powered Autonomous Security & Threat Detection System
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sentinel-moltbook&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/sentinel-moltbook)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juddrosenblatt&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/juddrosenblatt)
 
 ---
 
@@ -83,7 +83,7 @@ AI-Powered Autonomous Security & Threat Detection System
 
 <div align="center">
 
-[![Sentinel Repository](https://img.shields.io/badge/🛡️_Sentinel-Visit_Repository-00D9FF?style=for-the-badge)](https://github.com/sentinel-moltbook/sentinel)
+[![Sentinel Repository](https://img.shields.io/badge/🛡️_Sentinel-Visit_Repository-00D9FF?style=for-the-badge)](https://github.com/juddrosenblatt/sentinel)
 
 </div>
 
@@ -93,6 +93,6 @@ AI-Powered Autonomous Security & Threat Detection System
 
   **💡 "Building secure, intelligent systems for a safer digital future"**
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=sentinel-moltbook&color=00D9FF&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=juddrosenblatt&color=00D9FF&style=flat-square)
 
 </div>

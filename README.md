@@ -22,6 +22,13 @@ Founder of **[AE Studio](https://ae.studio)** and AI alignment researcher focuse
 
 ## 🔬 Research & Work
 
+### Sentinel1 Project
+**[Sentinel1](https://github.com/juddrosenblatt/sentinel1)** - AI agent monitoring system for alignment research
+- Autonomous agent behavior monitoring
+- Event-driven threat detection architecture
+- Real-time alignment verification protocols
+- Open source AI safety tools
+
 ### AI Alignment & Safety
 Working on critical challenges in AI alignment to ensure advanced AI systems act in accordance with human intentions and values.
 
